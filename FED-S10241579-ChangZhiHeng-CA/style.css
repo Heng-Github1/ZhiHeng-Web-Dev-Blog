@@ -1,0 +1,39 @@
+h1,h2,h3,h4 {
+    text-align: center;
+}
+h1 {
+    color:deepskyblue;
+    font-family: 'Aclonica';
+    font-size: 50px;
+}
+h2,h3,h4 {
+    font-family: 'Audiowide';
+}
+h2 {
+    color:#001B2E;
+}
+h3 {
+    color: #294C60;
+}
+h4 {
+    color:#a9926a;
+    font-size: 20px;
+}
+#image1,.center {
+    border-radius: 50%;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+body {
+    background-color: honeydew;
+}
+ul {
+    background-color: rgb(226, 196, 157);
+}
+#image2 {
+    width: 1500px;
+    height: 650px;
+}
